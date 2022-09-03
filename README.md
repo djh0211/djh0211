@@ -2,7 +2,7 @@
   <a href="https://velog.io/@djh0211" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="mailto:tnfxoddl02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tnfxoddl02@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
-  <a href="https://www.instagram.com/d.ju__un/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 </p>
 
 
